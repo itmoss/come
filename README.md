@@ -24,6 +24,7 @@ export PATH=$PATH:/usr/local/go/bin/
 ```
 
 ```sh 
+sudo apt-get install git
 go get github.com/cihub/seelog
 go get github.com/bmizerany/pat
 go get golang.org/x/tools/cmd/oracle
