@@ -26,26 +26,37 @@ vim ~/.bashrc
 export GOPATH=$HOME/go_work
 export PATH=$PATH:/usr/local/go/bin/
 source ~/.bashrc
+sudo apt-get install git
 ```
+- Get source supported eclipse from open repostitories 
+- 
+```sh 
+go get golang.org/x/tools/cmd/oracle
+go get github.com/nsf/gocode
+~/go_work/bin$ sudo mv gocode /usr/local/go/bin/
+~/go_work/bin$ sudo mv oracle /usr/local/go/bin/
+
+```
+
+
 - Creates your package and project 
 ```sh 
 # your company
 mkdir -p $GOPATH/src/github.com/itmoss/sample_go
 #
 
-```
 
+
+- Create repository to your github location. 
 ```sh 
-sudo apt-get install git
-#go get github.com/cihub/seelog
-#go get github.com/bmizerany/pat
-go get golang.org/x/tools/cmd/oracle
-go get github.com/nsf/gocode
-~/go_work/bin$ sudo mv gocode /usr/local/go/bin/
-~/go_work/bin$ sudo mv oracle /usr/local/go/bin/
-
-
+$ cd $GOPATH/src/github.com/itmoss/sample_go
+$ git init
+Initialized empty Git repository in /home/user/work/src/github.com/user/hello/.git/
+$ git add xxxxxxxxx.go
+$ git commit -m "initial commit"
+git push http://github.com/itmoss/sample_go master
 ```
+
 
 
 
