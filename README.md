@@ -29,7 +29,7 @@ source ~/.bashrc
 sudo apt-get install git
 ```
 - Get source supported eclipse from open repostitories 
-- 
+
 ```sh 
 go get golang.org/x/tools/cmd/oracle
 go get github.com/nsf/gocode
