@@ -27,6 +27,13 @@ export GOPATH=$HOME/go_work
 export PATH=$PATH:/usr/local/go/bin/
 source ~/.bashrc
 ```
+- Creates your package and project 
+```sh 
+# your company
+mkdir -p $GOPATH/src/github.com/itmoss
+#
+
+```
 
 ```sh 
 sudo apt-get install git
