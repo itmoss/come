@@ -10,13 +10,13 @@ Skeleton code,reference about the GO language
 - Move directory to go_work/src
 
 ```sh 
-- go get github/itmoss/MOSSD 
+- go get github/itmoss/come 
 ```
 # how get a project with the Eclipse. 
 - Creates workspace within your home. 
-- `/home/jaster/go_work` 
+- `~/go_work` 
 - Move to goclipse then create go project and check your project name whether it is above directory of workspace. 
-- `/home/jaster/go_work/don't fill up project name!!!!!` 
+- `~/go_work/ #don't fill out your project name!!!!!` 
 - Check your PATH 
 ```sh
 export GOPATH=$HOME/go_work
