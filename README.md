@@ -12,7 +12,7 @@ Skeleton code,reference about the GO language
 ```sh 
 - go get github/itmoss/come 
 ```
-# how get a project with the Eclipse. 
+# how to create a project with the Eclipse. 
 - Creates workspace within your home. 
 - `~/go_work` 
 - Move to goclipse then create go project and check your project name whether it is above directory of workspace. 
