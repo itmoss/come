@@ -9,8 +9,7 @@ Skeleton code,reference about the GO language
 
 # go get 
 - Select,download go binaray follow to ur machine. (https://golang.org/dl/)
-- Set GOPATH (go_work) 
-- Move directory to go_work/src
+- tar xvf go1.5.XXXXXX /usr/local/
 
 ```sh 
 - go get github/itmoss/come 
