@@ -57,6 +57,11 @@ $ git commit -m "initial commit"
 git push http://github.com/itmoss/sample_go master
 ```
 
+- build and debug with tool 
+
+ 
+https://github.com/GoClipse/goclipse/blob/latest/documentation/UserGuide.md
+
 
 
 
