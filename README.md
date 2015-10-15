@@ -18,8 +18,8 @@ git clone https://github.com/itmoss/go_work.git
 # how to create a project with the Eclipse. 
 - Move to workspace downloaded from github within your home. 
 - `cd ~/go_work` 
-- Excutes goclipse then create go project and check your project name whether it is above directory of workspace. 
-- `~/go_work/ #don't fill out your project name!!!!!` 
+- Import your exist directory go_work 
+- `~/go_work/ #don't fill out your project name within path!!!!!` 
 - Check your PATH 
 ```sh
 vim ~/.bashrc
