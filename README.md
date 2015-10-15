@@ -30,7 +30,7 @@ source ~/.bashrc
 - Creates your package and project 
 ```sh 
 # your company
-mkdir -p $GOPATH/src/github.com/itmoss
+mkdir -p $GOPATH/src/github.com/itmoss/sample_go
 #
 
 ```
