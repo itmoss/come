@@ -5,7 +5,10 @@ Skeleton code,reference about the GO language
 - goclipse : https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation
 - egit : Main Update Site: http://download.eclipse.org/egit/updates (Recommended)
 
+
+
 # go get 
+- Select,download go binaray follow to ur machine. (https://golang.org/dl/)
 - Set GOPATH (go_work) 
 - Move directory to go_work/src
 
