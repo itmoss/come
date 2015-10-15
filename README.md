@@ -22,8 +22,10 @@ git clone https://github.com/itmoss/go_work.git
 - `~/go_work/ #don't fill out your project name!!!!!` 
 - Check your PATH 
 ```sh
+vim ~/.bashrc
 export GOPATH=$HOME/go_work
 export PATH=$PATH:/usr/local/go/bin/
+source ~/.bashrc
 ```
 
 ```sh 
