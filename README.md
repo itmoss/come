@@ -34,8 +34,10 @@ sudo apt-get install git
 #go get github.com/bmizerany/pat
 go get golang.org/x/tools/cmd/oracle
 go get github.com/nsf/gocode
-#go get golang.org/x/net/websocket
-#go get golang.org/x/text
+~/go_work/bin$ sudo mv gocode /usr/local/go/bin/
+~/go_work/bin$ sudo mv oracle /usr/local/go/bin/
+
+
 ```
 
 
