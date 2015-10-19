@@ -73,6 +73,10 @@ https://github.com/githubnemo/CompileDaemon
 ```sh 
 go get github.com/githubnemo/CompileDaemon
 install -v -gcflags "-N -l" ./...
+
+cd $GO_HOME\bin 
+./CompileDaemon -directory=/home/jaster/go_work/src/github.com/itmoss/sample_go -recursive=true -color=true -graceful-kill=true -command=./sample_go
+
 ```
 
 
