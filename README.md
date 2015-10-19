@@ -67,7 +67,11 @@ https://github.com/GoClipse/goclipse/blob/latest/documentation/UserGuide.md
 
 # utilities of GO 
 - Coplile Deamon 
+
+```sh 
 go get github.com/githubnemo/CompileDaemon
+install -v -gcflags "-N -l" ./...
+```
 
 
 
