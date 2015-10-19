@@ -65,6 +65,10 @@ https://github.com/GoClipse/goclipse/blob/latest/documentation/UserGuide.md
 
 
 
+# utilities of GO 
+- Coplile Deamon 
+go get github.com/githubnemo/CompileDaemon
+
 
 
 
